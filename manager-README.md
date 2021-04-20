@@ -2,7 +2,7 @@
 
 There’s been a bit of a rise in this idea of a Manager README - a document wherein a manager essentially explains how they operate as a manager and to give context about themselves. So here is an exercise in a Manager README.
 
-**Note:** This is a living document.
+**Note:** This is no longer a living document. Please see [https://rfpludwick.github.io](https://rfpludwick.github.io) for the latest version.
 
 ## Preface
 
@@ -30,7 +30,7 @@ My job covers quite a lot of ground, but here are the highlights:
 
 ## My Work Style
 
-I am an early bird. With one brief exception, I have started my workdays by 8am for the past 11 years. I do not expect you to match my schedule, but you may occasionally get a morning salvo of communication from me if you start later in the day. I try to get a lot done in the mornings. 
+I am an early bird. With one brief exception, I have started my workdays by 8am for the past 11 years. I do not expect you to match my schedule, but you may occasionally get a morning salvo of communication from me if you start later in the day. I try to get a lot done in the mornings.
 
 I have email and Slack on my phone, and I will occasionally check them in off-hours. If it is critical to contact me during off-hours, however, please text me or call me. I will do the same if I must contact you during off-hours. I cannot guarantee 24/7 availability as I share childcare duties at home.
 
